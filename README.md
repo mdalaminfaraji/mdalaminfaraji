@@ -29,7 +29,7 @@ I'm a **Full-Stack Developer** with expertise in modern web technologies, specia
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Strapi CMS](https://img.shields.io/badge/NextAuth.js-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
+![Strapi CMS](https://img.shields.io/badge/Strapi-CMS-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
