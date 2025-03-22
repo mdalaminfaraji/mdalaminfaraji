@@ -29,14 +29,13 @@ I'm a **Full-Stack Developer** with expertise in modern web technologies, specia
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
+![Strapi CMS](https://img.shields.io/badge/NextAuth.js-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,14 +55,6 @@ I'm a **Full-Stack Developer** with expertise in modern web technologies, specia
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalaminfaraji&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdalaminfaraji&theme=radical)
-
-## 📌 Recent Projects
-- 🚀 [YouthMedia24](https://youthmedia24.com) - News Portal with Firebase Auth
-- 📂 [Strapi CMS Integration](https://github.com/mdalaminfaraji) - Headless CMS with Next.js
-- 🌍 [Company Management System](https://github.com/mdalaminfaraji) - Full company management app
 
 ## 🤝 Let's Connect
 
