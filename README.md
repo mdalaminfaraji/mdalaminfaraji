@@ -1,89 +1,71 @@
-<h1 align="center">Hello there 👋, I'm Mizanur Rahman</h1>
+# Hi there, I'm Md. Alamin Faraji! 👋
 
-###
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mizan-mahi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mizanmahi24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/mizan__mahi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+## 🚀 About Me
+I'm a **Full-Stack Developer** with expertise in modern web technologies, specializing in **React.js, Next.js, Node.js, and backend development**. I have a passion for building scalable applications, optimizing performance, and delivering seamless user experiences.
 
-###
+- 🔭 Currently working on **Next.js & Strapi projects**
+- 🌱 Exploring **DevOps & Cloud Engineering**
+- 💡 Enthusiast in **Open Source Contributions**
+- 📫 Reach me at **[alaminice1617@gmail.com](mailto:alaminice1617@gmail.com)**
+- 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/md-alamin-faraji-a65b8b18a/)**
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠 Tech Stack
 
-###
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-<h4 align="left">I'm a passionate web engineer, mentor and IT enthusiast from Bangladesh.</h4>
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
 
-- 🔭 I’m working as a **Wev Developer & Mentor (Apollo L2) at [Programming Hero](https://github.com/programmingHero1/)**
-- 📚 I'm currently learning **Postgres and Cloud Computing with AWS**
-- 📝 I regularly write articles on [Medium](https://medium.com/@mizanmahi24)
-- ⚡ Fun fact: **Can wrestle a bug in Javascript, but CSS makes me 😢.**
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-###
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+### **Version Control & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-###
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+![Md. Alamin Faraji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdalaminfaraji&show_icons=true&theme=radical)
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalaminfaraji&layout=compact&theme=radical)
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🏆 GitHub Trophies
 
-###
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdalaminfaraji&theme=radical)
 
+## 📌 Recent Projects
+- 🚀 [YouthMedia24](https://youthmedia24.com) - News Portal with Firebase Auth
+- 📂 [Strapi CMS Integration](https://github.com/mdalaminfaraji) - Headless CMS with Next.js
+- 🌍 [Company Management System](https://github.com/mdalaminfaraji) - Full company management app
 
+## 🤝 Let's Connect
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanmahi&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizanmahi&theme=dark" height="163em" /> 
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanmahi&theme=dark" height="160em" /> 
-  <br>
-<!--   <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" /> -->
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alamin-faraji-a65b8b18a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalaminfaraji/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminice1617@gmail.com)
 
-###
+---
+⭐ **If you like my work, consider giving it a star!** 🚀
