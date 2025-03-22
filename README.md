@@ -1,6 +1,12 @@
 # Hi there, I'm Md. Alamin Faraji! 👋
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+###
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alamin-faraji-a65b8b18a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalaminfaraji/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminice1617@gmail.com)
+</div>
 
 ## 🚀 About Me
 I'm a **Full-Stack Developer** with expertise in modern web technologies, specializing in **React.js, Next.js, Node.js, and backend development**. I have a passion for building scalable applications, optimizing performance, and delivering seamless user experiences.
