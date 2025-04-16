@@ -51,8 +51,8 @@ I'm a **Full-Stack Developer** with expertise in modern web technologies, specia
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-mu-ten.vercel.app/api?username=mdalaminfaraji&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=mdalaminfaraji&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-two-cyan-64.vercel.app/api?username=mdalaminfaraji&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-two-cyan-64.vercel.app/api/top-langs/?username=mdalaminfaraji&layout=compact&theme=radical)
 
 
 ## 🤝 Let's Connect
